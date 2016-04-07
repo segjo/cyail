@@ -1,4 +1,4 @@
-package sample;
+package z_sample;
 
 public class Controller {
 }
